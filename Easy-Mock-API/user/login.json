@@ -1,0 +1,8 @@
+{
+  "code":2000,
+  "flag":true,
+  "message":"验证成功",
+  "data":{
+    "token":"admin"
+  }
+}

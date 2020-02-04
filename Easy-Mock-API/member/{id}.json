@@ -1,0 +1,16 @@
+{
+  "code": 2000,
+  "flag": true,
+  "message": "查询成功！",
+  "data": {
+    "id": 10,
+    "cardNum":"@integer(10000)",
+    "name": "@cname",
+    "birthday": "1984-10-05",
+    "phone": "10555889008",
+    "integral": "@integer(60, 100)",
+    "money": "@integer(200, 400)",
+    "payType|1": ['1', '2', '3', '4'],
+    "address": "陕西省 延安市 洛川县"
+  },
+}

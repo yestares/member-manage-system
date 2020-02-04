@@ -1,0 +1,11 @@
+{
+  "code": 2000,
+  "flag": true,
+  "message": "查询成功！",
+  "data": {
+    "id": 10,
+    "name": "@ctitle",
+    "linkman": "@cname",
+     "mobile|11": "@integer(0,9)",
+  },
+}
