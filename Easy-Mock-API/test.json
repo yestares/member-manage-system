@@ -1,0 +1,13 @@
+{
+    "PersonList|3":[
+        {
+            "name|2":'邓紫棋',
+            'id|+1':1,
+            'asds': '@string',
+            'acsa':'@range',
+            'date':'@datetime("yyy/mm/dd HH:mm/ss")',
+            'img': '@image',
+            'color':'@color'
+        }
+    ]
+}
